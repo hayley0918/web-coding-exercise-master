@@ -4,4 +4,42 @@ body {
     helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+header{
+  text-align: center;
+  font-weight: bold;
+}
+
+header a{
+  text-decoration: none;
+  color: white;
+}
+
+.search-box{
+  text-align: center;
+  margin: 30px;
+}
+
+.search-box input{
+  padding: 10px;
+}
+
+.data-display{
+  text-align: center;
+}
+
+.greeting{
+  text-align: center;
+}
+
+.data-display a{
+  text-decoration: none;
+  margin: 20px;
+  font-weight: bold;
+}
+
+ul span{
+  margin: 0 10px;
 }
